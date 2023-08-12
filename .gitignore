@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore environment files
+.env
+
+# Ignore data directories
+data/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints/
